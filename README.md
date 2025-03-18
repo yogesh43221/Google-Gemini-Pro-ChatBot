@@ -46,8 +46,6 @@ GOOGLE_API_KEY="your_google_api_key"
 streamlit run app.py
 ```
 
-## 📸 Screenshots
-
 ## 🤝 Contributions
 **Contributions are welcome! Feel free to open issues or submit pull requests.**
 
